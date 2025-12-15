@@ -1,0 +1,13 @@
+# Ignore datasets
+*.csv
+*.tsv
+*.zip
+
+# Ignore large model weights and PDBs
+*.pth
+*.pdb
+
+# Ignore system files
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
